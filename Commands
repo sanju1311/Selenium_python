@@ -5,3 +5,4 @@ pip show selenium
 
 
 Python datatypes : Numeric,String,List,Tuple,Dictionary
+List operations : insert,append,update,del
