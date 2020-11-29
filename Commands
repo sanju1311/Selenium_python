@@ -1,0 +1,4 @@
+python --version
+pip --version
+pip install selenium 
+pip show selenium 
